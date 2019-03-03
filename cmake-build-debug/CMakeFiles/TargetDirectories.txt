@@ -1,3 +1,3 @@
-C:/Users/lawsc/CLionProjects/KataPractice1/cmake-build-debug/CMakeFiles/KataPractice1.dir
-C:/Users/lawsc/CLionProjects/KataPractice1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lawsc/CLionProjects/KataPractice1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ProgrammingProjects/CLion Projects/Kata/KataPractice1/cmake-build-debug/CMakeFiles/KataPractice1.dir
+D:/ProgrammingProjects/CLion Projects/Kata/KataPractice1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProgrammingProjects/CLion Projects/Kata/KataPractice1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

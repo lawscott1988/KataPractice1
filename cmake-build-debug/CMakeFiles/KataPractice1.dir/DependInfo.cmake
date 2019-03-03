@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/lawsc/CLionProjects/KataPractice1/main.cpp" "C:/Users/lawsc/CLionProjects/KataPractice1/cmake-build-debug/CMakeFiles/KataPractice1.dir/main.cpp.obj"
+  "D:/ProgrammingProjects/CLion Projects/Kata/KataPractice1/main.cpp" "D:/ProgrammingProjects/CLion Projects/Kata/KataPractice1/cmake-build-debug/CMakeFiles/KataPractice1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
